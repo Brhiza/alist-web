@@ -43,7 +43,7 @@ const Login = () => {
   const logo = useColorModeValue(logos[0], logos.pop())
   const t = useT()
   const title = createMemo(() => {
-    return `${t("login.login_to")} ${getSetting("site_title")}`
+    return ` ${getSetting("site_title")}`
   })
   useTitle(title)
   const bgColor = useColorModeValue("white", "$neutral1")
@@ -279,7 +279,7 @@ const Login = () => {
             {ldapLoginTips}
           </Checkbox>
         </Show>
-        <Button
+{/*        <Button
           w="$full"
           colorScheme="accent"
           onClick={() => {
@@ -291,7 +291,7 @@ const Login = () => {
           }}
         >
           {t("login.use_guest")}
-        </Button>
+        </Button>*/}
         <Flex
           mt="$2"
           justifyContent="space-evenly"

@@ -45,7 +45,8 @@ const Password = () => {
           direction={{ "@initial": "column", "@sm": "row" }}
           columnGap="$1"
         >
-          <Text>{t("global.have_account")}</Text>
+          <Text>{t("你没密码你看啥")}</Text>
+
           <Text
             color="$info9"
             as={LinkWithBase}
