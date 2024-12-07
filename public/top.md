@@ -2,7 +2,7 @@
 ## <center>蔡徐坤日本粉丝后援会</center>
 <br />
 
-<center><img src="https://yun.ikun.jp/img/ikun-club.jpg" width="300"></center>
+<center><img src="/images/ikun-club.jpg" width="300"></center>
 <br />
 
 
@@ -18,7 +18,7 @@
 ### 中国内地の男性歌手、俳優、オリジナル音楽プロデューサー
 
 <p>
-<img src=https://yun.ikun.jp/img/ikun-cxk.jpg alt="蔡徐坤" align="left" width=200 />蔡 徐坤（ツァイ シュークン、英: Cai Xukun、1998年8月2日 - ）浙江省温州市で生まれ、湖南省吉首市に居住し、本土中国男性歌手、俳優、オリジナル音楽プロデューサー、MVディレクターです。
+<img src=/images/ikun-cxk.jpg alt="蔡徐坤" align="left" width=200 />蔡 徐坤（ツァイ シュークン、英: Cai Xukun、1998年8月2日 - ）浙江省温州市で生まれ、湖南省吉首市に居住し、本土中国男性歌手、俳優、オリジナル音楽プロデューサー、MVディレクターです。
 
 2012年8月、蔡徐坤が参加したアイドルドラマ「おとぎ話の半分」が放送され、世間の注目を集め始めた。
 
@@ -36,7 +36,7 @@
 ---
 
 ## メンバーが新しい
-<img src=https://yun.ikun.jp/img/ikun-re.jpg width=500 />
+<img src=/images/ikun-re.jpg width=500 />
 
 ---
 
